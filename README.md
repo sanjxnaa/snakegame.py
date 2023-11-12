@@ -1,4 +1,4 @@
-# snakegame.py
+# SNAKE GAME MADE IN PYTHON
 
 My first rookie python project done before I entered my college, the classic snake game in python using turtle and freegames libraries in python.
 
